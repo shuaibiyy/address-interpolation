@@ -2,6 +2,8 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/shuaibiyy/address-interpolation/master)
 
+Exploring address interpolation using machine learning.
+
 ## Prerequisites
 
 ### Install Dependencies
